@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "username":"Burak Andarman",
+        "password":"123",
+        "authority":"Admin"
+    },
+    {
+        "id":2,
+        "username":"Utku Aygör",
+        "password":"567",
+        "authority":"Mühendislik"
+    },
+    {
+        "id":3,
+        "username":"Özgür Temiz",
+        "password":"999",
+        "authority":"Diş Hekimliği"
+    },
+    {
+        "id":4,
+        "username":"Cuma Yıldırım",
+        "password":"379",
+        "authority":"Tıp"
+    }
+]
